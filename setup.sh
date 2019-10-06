@@ -5,7 +5,7 @@ sudo apt-get update
 
 # install utilities
 sudo apt-get install htop -y
-sudo apt-get install speedometer -y
+sudo apt-get install nload -y
 
 # install node
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
