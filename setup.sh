@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# update
+sudo apt-get update
+
 # install utilities
 sudo apt-get install htop -y
 sudo apt-get install speedometer -y
